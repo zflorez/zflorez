@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zflorez junior at the University of Arizona, (Computer Science & Information Technology)
-- 👀 I’m interested in software development, cyber security, full-stack development
-- 🌱 I’m currently learning Computer Organization, Object-Oriented programming, and Discrete Data Structures. 
+- 👋 Hi, I’m @zflorez senior at the University of Arizona, (Computer Science & Information Technology)
+- 👀 I’m interested in software development, cyber security, back-end development
+- 🌱 I’m currently learning Database Design, Cloud Computing, and Automata Theory
 - 💞️ I’m looking to collaborate on any project you have in mind. 
 - 📫 How to reach me: zsf@email.arizona.edu
 
