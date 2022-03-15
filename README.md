@@ -8,7 +8,7 @@ CS Courses at the University of Arizona that I have taken:
 CSC 110 Intro to Programming I  
 CSC 120 Intro to Programming II  
 CSC 210 Software Development  
-CSC 245 Intro to Discrete Structures  
+CSC 245 Discrete Structures  
 CSC 252 Computer Organization  
 CSC 335 Object-Oriented Programming  
 CSC 345 Analysis of Discrete Structures  
