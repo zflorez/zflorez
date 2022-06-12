@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @zflorez senior at the University of Arizona, (Computer Science & Information Technology).
+- 👋 Hi, I’m @zflorez graduate from the University of Arizona, (Computer Science & Information Technology).
 - 👀 I will be starting at American Express as a Software Engineer in the Summer.
-- 🌱 I’m currently taking Operating Systems, Computer Security, and Symbolic Logic.
 - 📫 How to reach me: zsf@email.arizona.edu
 
 CS Courses at the University of Arizona that I have taken: 
